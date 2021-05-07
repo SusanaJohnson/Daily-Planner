@@ -1,4 +1,4 @@
-
+//This is the daily.js file
 function view() {
 
     var data = { 'dayToV': dayToV, 'month': month + 1, 'year': year }
